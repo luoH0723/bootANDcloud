@@ -1,0 +1,19 @@
+server:
+  port: 8762  #端口号
+
+eureka:
+  instance:
+    hostname: localhost  #localhost
+  client:
+    registerWithEureka: true  #注册到Eureka上
+    fetchRegistry: true #从Eureka上拉取信息
+    serviceUrl:
+      defaultZone: http://root:root@localhost:8761/eureka
+#指定用户名和密码
+spring:
+  application:
+    name: EUREKA
+  security:
+    user:
+      name: root
+      password: root

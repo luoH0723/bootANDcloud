@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hqdrctdstrb>
+  <mst>
+    <lnkshpno>2005010686</lnkshpno>
+    <hndno>929349456D</hndno>
+    <prvid>06508</prvid>
+    <dptid>1119</dptid>
+    <mkdat>20200622</mkdat>
+    <snddat>20200501</snddat>
+    <bllid>110</bllid>
+    <brief>1119/0501-0530/8697-1987/共31张</brief>
+    <dtl>
+      <lnkshpno>2005010686</lnkshpno>
+	  <onercd>
+        <idx>1</idx>
+        <lnkshpno>2005010684</lnkshpno>
+        <gdsid>31000827</gdsid>
+        <gdsdes>菊乐烧酸奶</gdsdes>
+        <qty>58</qty>
+        <bsepkg>瓶</bsepkg>
+        <taxrto>13.0000</taxrto>
+        <prvprc>5.6900</prvprc>
+        <prvamt>330.0200</prvamt>
+        <bthno>20200501</bthno>
+        <vlddat>21</vlddat>
+        <crtdat>20200501</crtdat>
+        <brief />
+        </onercd>
+    </dtl>
+  </mst>
+  <mst>
+    <lnkshpno>2005010684</lnkshpno>
+    <hndno>929349457D</hndno>
+    <prvid>06508</prvid>
+    <dptid>1132</dptid>
+    <mkdat>20200622</mkdat>
+    <snddat>20200501</snddat>
+    <bllid>110</bllid>
+    <brief>1132/0501-0529/9457-1226/共14张</brief>
+  </mst>
+  <mst>
+    <lnkshpno>2005010696</lnkshpno>
+    <hndno>929349458D</hndno>
+    <prvid>06508</prvid>
+    <dptid>1282</dptid>
+    <mkdat>20200622</mkdat>
+    <snddat>20200501</snddat>
+    <bllid>110</bllid>
+    <brief>1282/0501-0530/8698-1988/共32张</brief>
+  </mst>
+</hqdrctdstrb>
