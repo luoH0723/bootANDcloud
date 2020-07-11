@@ -439,5 +439,7 @@ public interface SearchClient {
 	1.如果你传递的参数比较复杂时，默认会采用POST的请求方式。
 	2.传递单个参数时，推荐使用@PathVariable，如果传递的单个参数比较多，这里也可以采用@RequestParam，不要省略Value属性
 	3.传递对象信息时，统一采用json的方式，添加@RequestBody
+    
+2.在Search模块下准备三个接口
 ```
 
